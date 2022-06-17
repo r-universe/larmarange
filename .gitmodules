@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "broom.helpers"]
+	path = broom.helpers
+	url = https://github.com/larmarange/broom.helpers
+	shallow = true
+	registered = true
+[submodule "labelled"]
+	path = labelled
+	url = https://github.com/larmarange/labelled
+	shallow = true
+	registered = true
+[submodule "prevR"]
+	path = prevR
+	url = https://github.com/larmarange/prevr
+	shallow = true
+	registered = true
