@@ -8,6 +8,11 @@
 	url = https://github.com/larmarange/broom.helpers
 	shallow = true
 	registered = true
+[submodule "ggstats"]
+	path = ggstats
+	url = https://github.com/larmarange/ggstats
+	shallow = true
+	registered = true
 [submodule "labelled"]
 	path = labelled
 	url = https://github.com/larmarange/labelled
