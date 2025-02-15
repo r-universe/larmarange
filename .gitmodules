@@ -8,6 +8,9 @@
 [submodule "ggstats"]
 	path = ggstats
 	url = https://github.com/larmarange/ggstats
+[submodule "guideR"]
+	path = guideR
+	url = https://github.com/larmarange/guider
 [submodule "labelled"]
 	path = labelled
 	url = https://github.com/larmarange/labelled
